@@ -8,7 +8,7 @@ public class Class8WhileLoops {
 		boolean workDay = true;
 		
 		while (workDay) {
-			if(day<6)
+			if(day<3)
 			System.out.println("I need a day off"); // it prints (I need a day off) 5 times.
 			day++;
 		}

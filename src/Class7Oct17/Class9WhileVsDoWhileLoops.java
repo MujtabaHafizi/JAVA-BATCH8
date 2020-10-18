@@ -3,7 +3,7 @@ package Class7Oct17;
 public class Class9WhileVsDoWhileLoops {
 
 	public static void main(String[] args) {
-		System.out.println("---while Loop-----\n");
+		System.out.println("---------------------while Loop-----------------------------\n");
 		int a = 20;
 		// first we check condition
 		while (a < 15) {

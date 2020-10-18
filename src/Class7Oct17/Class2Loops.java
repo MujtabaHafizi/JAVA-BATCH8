@@ -27,7 +27,7 @@ public class Class2Loops {
 		System.out.println("Printing number 1  to 50");
 
 		int num = 0;
-		while(num<=50) {
+		while(num<=15) {
 			System.out.println(num);
 			num++;
 		}

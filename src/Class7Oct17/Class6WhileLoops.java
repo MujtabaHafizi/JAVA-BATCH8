@@ -1,6 +1,6 @@
 package Class7Oct17;
 
-public class Class6WhileLoopString {
+public class Class6WhileLoops {
 
 	public static void main(String[] args) {
 		String day = "Saturday";
